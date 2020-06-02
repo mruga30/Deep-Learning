@@ -1,4 +1,4 @@
-# Problem Set 2
+# Problem Set 3
 The code is written in MATLAB and the Data: two images created synthetically.   
 Images are: 40x40 in size, all black (zeros) except a white vertical stripe or a white horizontal stripe
 
