@@ -1,5 +1,5 @@
 # Problem Set 2
-The code is written in MATLAB and the Data is two images created synthetically. 
+The code is written in MATLAB and the Data: two images created synthetically. 
 Images are: 40x40 in size, all black (zeros) except a white vertical stripe or a white horizontal stripe
 
 In this set, we differentiate between two synthetic images using a simple Convolutional Neural Network architecture.
