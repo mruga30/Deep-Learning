@@ -1,6 +1,5 @@
 # Problem Set 1
-The code is written in MATLAB
-Database: http://vision.ucsd.edu/content/yale-face-database
+The code is written in MATLAB and Database used is http://vision.ucsd.edu/content/yale-face-database
 
 
 In this set, we have tried to tackle the problem of the face recognition using different activation and objective functions.
